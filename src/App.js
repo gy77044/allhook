@@ -1,10 +1,11 @@
 
 import './App.css';
+import UseContextHook from './UseContextHook';
 
 function App() {
   return (
-    <div className="App">
-     hooks
+    <div >
+      <UseContextHook />
     </div>
   );
 }
